@@ -91,7 +91,9 @@ In developing the methodology, BuzzFeed News consulted with three statisticians.
 
 In addition to the home-country preference analysis, BuzzFeed News also recreated the ISU's "Deviation Points" system for identifying outlier judgments, the rules for which can be found in [ISU Communication 2098](http://www.isu.org/communications/593-isu-communication-2098/file). That code can be found in [the `isu-deviation-points` notebook](./notebooks/isu-deviation-points.ipynb).
 
-A final notebook — [`progressive-skate-america-2016-example`](./notebooks/progressive-skate-america-2016-example.ipynb) — provides details about Maira Abasova's scores at the ISU GP Progressive Skate America 2016.
+A fourth notebook — [`progressive-skate-america-2016-example`](./notebooks/progressive-skate-america-2016-example.ipynb) — provides details about Maira Abasova's scores at the ISU GP Progressive Skate America 2016.
+
+_Update, February 18, 2018:_ This repository now also includes a fifth notebook — [`ice-dance-team-scoring`](./notebooks/ice-dance-team-scoring.ipynb) — supporting a second BuzzFeed News article, "[In Bitter Ice Dancing Rivalry Judges Favor Their Own](https://www.buzzfeed.com/johntemplon/in-bitter-ice-dancing-rivalry-judges-favor-their-own)." That notebook uses the same data, and much of the same code, as the analyses above.
 
 ## Technical Notes
 
