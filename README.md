@@ -101,6 +101,10 @@ All of the analyses above are coded in Python 3, using the libraries listed in [
 
 The individual-judge analysis in the [`home-country-preference-analysis` notebook](./notebooks/home-country-preference-analysis.ipynb) uses bootstrapping to test for statistical significance. Depending on your computer's processing power, this step could take at least a few hours to run. If you would like to run it more quickly, you can change the number of simulations in `find_judge_prob`, but doing so will decrease the accuracy of those calculations.
 
+## Licensing
+
+All code in this repository is available under the [MIT License](https://opensource.org/licenses/MIT). All data files are available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
+
 ## Questions / Feedback
 
 Contact John Templon at [john.templon@buzzfeed.com](mailto:john.templon@buzzfeed.com).
